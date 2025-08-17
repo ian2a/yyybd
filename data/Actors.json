@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"YYY_Battle","characterIndex":0,"characterName":"YYY_Walk","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"YYY_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"YYY","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"sjy_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sjy_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"SJY","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"dog","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"petface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brie","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"bono","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"petface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bono","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"mimi","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"petface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mimi","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":7,"characterName":"meimei","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"petface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Meimei","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
